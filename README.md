@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fabrice, an <a href="https://linkedin.com/in/christofhunte">IT Professional</a>☺</h1>
+<h1>Hi, I'm Fabrice, an <a href=https://www.linkedin.com/in/fabrice-francois-38ba30313/>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
